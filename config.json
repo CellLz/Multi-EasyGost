@@ -1,5 +1,5 @@
 {
-    "Debug": true,
+    "Debug": false,
     "Retries": 0,
     "ServeNodes": [
         "udp://127.0.0.1:65532"
