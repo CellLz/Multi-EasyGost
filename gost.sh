@@ -368,7 +368,7 @@ function eachconf_retrieve() {
 }
 function confstart() {
   echo "{
-    \"Debug\": true,
+    \"Debug\": false,
     \"Retries\": 0,
     \"ServeNodes\": [" >>$gost_conf_path
 }
